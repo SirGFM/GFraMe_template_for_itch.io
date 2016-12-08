@@ -93,8 +93,8 @@ if [ ${RV} -ne 0 ]; then
     echo "libCSynth (master, v1.0.2):" >> "${DIR}"/.last_launch
     echo "    https://github.com/SirGFM/c_synth"
     echo "    https://github.com/SirGFM/c_synth" >> "${DIR}"/.last_launch
-    echo "libGFraMe (master, v2.1.0):"
-    echo "libGFraMe (master, v2.1.0):" >> "${DIR}"/.last_launch
+    echo "libGFraMe (master, v2.2.0):"
+    echo "libGFraMe (master, v2.2.0):" >> "${DIR}"/.last_launch
     echo "    https://github.com/SirGFM/GFraMe"
     echo "    https://github.com/SirGFM/GFraMe" >> "${DIR}"/.last_launch
 
